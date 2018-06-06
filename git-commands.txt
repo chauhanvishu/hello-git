@@ -1,0 +1,7 @@
+command     function
+git init    create a new local repository
+git clone /path/to/repository  check out a repository
+git add <file> add files
+git commit -m "commit message" commit changes to head
+git push origin master send the changes to the master                        branch
+git status list the files you have changed
